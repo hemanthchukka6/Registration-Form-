@@ -1,4 +1,4 @@
-# Email-Notification-System
+# Registration-Form-
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/363c981f-96db-445a-8c5b-e92c3c7c1c8c" />
 
